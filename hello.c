@@ -6,8 +6,8 @@
 
 int main ( void )
 {
-    printf("\n Hola MINIX3 de parte de Mario Rojo Vicente") ;
+    printf("\n Hola MINIX3 de parte de Mario Rojo Vicente Mario mierdas") ;
     getchar() ;
-	putchar('\n') ;
+	putchar('\n') ; 
     return 0 ;
 }
